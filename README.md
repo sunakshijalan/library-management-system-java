@@ -1,7 +1,6 @@
 # Library Management System (Java)
 
-A menu-driven Library Management System developed in Java.
-First Project Created Using VS Code And Git
+A menu-driven Library Management System developed in Java
 
 ## Features
 
@@ -15,23 +14,18 @@ First Project Created Using VS Code And Git
 ## Concepts Used
 
 * Java
-* Arrays / ArrayList
+* Arrays
 * Methods
 * Loops
 * Conditional Statements
-* Object-Oriented Programming (if applicable)
+* Object-Oriented Programming
 
 ## How to Run
 
 1. Clone the repository
 2. Open the project in VS Code
-3. Compile:
-
-javac Library.java
-
-4. Run:
-
-java Library
+3. Compile: Library.java
+4. Run: Library
 
 ## Sample Menu
 
@@ -44,5 +38,5 @@ java Library
 
 ## Author
 
-Sunakshi
+Sunakshi Jalan
 
